@@ -1,0 +1,6 @@
+@owasp._09.serilog_HostAddress = http://localhost:5144
+
+GET {{owasp._09.serilog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
