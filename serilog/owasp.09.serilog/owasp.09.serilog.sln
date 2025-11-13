@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "owasp.09.serilog", "owasp.09.serilog.csproj", "{65819967-24ED-4AFF-B947-7FF51E67D153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "owasp.09.serilog.api", "..\owasp.09.serilog.api\owasp.09.serilog.api.csproj", "{C28422FF-209E-4FDD-9980-32127A601088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "owasp.09.serilog.core", "..\owasp.09.serilog.core\owasp.09.serilog.core.csproj", "{8928C3BD-4B65-4147-9E37-873592838F71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{65819967-24ED-4AFF-B947-7FF51E67D153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65819967-24ED-4AFF-B947-7FF51E67D153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65819967-24ED-4AFF-B947-7FF51E67D153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28422FF-209E-4FDD-9980-32127A601088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28422FF-209E-4FDD-9980-32127A601088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28422FF-209E-4FDD-9980-32127A601088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28422FF-209E-4FDD-9980-32127A601088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8928C3BD-4B65-4147-9E37-873592838F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8928C3BD-4B65-4147-9E37-873592838F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8928C3BD-4B65-4147-9E37-873592838F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8928C3BD-4B65-4147-9E37-873592838F71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
