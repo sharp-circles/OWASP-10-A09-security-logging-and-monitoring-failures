@@ -1,0 +1,14 @@
+2025-11-15 11:40:03.374 +01:00 | INFO  | owasp.09.nlog.Program | Starting web application... 
+2025-11-15 11:40:03.696 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7178 
+2025-11-15 11:40:03.696 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5284 
+2025-11-15 11:40:03.769 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-11-15 11:40:03.769 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-11-15 11:40:03.769 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\nlog\owasp.09.nlog 
+2025-11-15 11:40:09.031 +01:00 | INFO  | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7178/Routines/1 - application/json 765 
+2025-11-15 11:40:09.087 +01:00 | INFO  | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api)' 
+2025-11-15 11:40:09.116 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "CreateRoutine", controller = "Routines"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateRoutine(Int32, owasp._09.nlog.api.Endpoints.CreateRoutine.CreateRoutineRequest) on controller owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController (owasp.09.nlog.api). 
+2025-11-15 11:40:11.291 +01:00 | INFO  | owasp._09.nlog.core.UseCases.CreateRoutine.CreateRoutineHandler | Let's put this log in risk 
+2025-11-15 11:40:11.301 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.Int32'. 
+2025-11-15 11:40:11.316 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api) in 2190.1041ms 
+2025-11-15 11:40:11.316 +01:00 | INFO  | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api)' 
+2025-11-15 11:40:11.316 +01:00 | INFO  | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7178/Routines/1 - 200 - application/json;+charset=utf-8 2302.5296ms 

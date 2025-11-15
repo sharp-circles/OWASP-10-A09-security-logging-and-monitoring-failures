@@ -1,0 +1,8 @@
+2025-11-15 11:12:27.453 +01:00 [INF] [] Starting web application...
+2025-11-15 11:12:27.960 +01:00 [INF] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7067
+2025-11-15 11:12:27.965 +01:00 [INF] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5144
+2025-11-15 11:12:28.041 +01:00 [INF] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2025-11-15 11:12:28.044 +01:00 [INF] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+2025-11-15 11:12:28.045 +01:00 [INF] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\serilog\owasp.09.serilog
+2025-11-15 11:12:37.302 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Let's put this log in risk
+2025-11-15 11:12:37.324 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 5328.8132 ms

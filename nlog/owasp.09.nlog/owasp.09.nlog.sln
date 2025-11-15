@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "owasp.09.nlog", "owasp.09.nlog.csproj", "{E36A7932-77A6-4CA8-A509-66E34606FBD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "owasp.09.nlog.api", "..\owasp.09.nlog.api\owasp.09.nlog.api.csproj", "{7C824AF4-9B67-416A-AA69-3F6CDD28407E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "owasp.09.nlog.core", "..\owasp.09.nlog.core\owasp.09.nlog.core.csproj", "{3C550AF5-323A-4CF4-865E-55D6B8D3E8B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36A7932-77A6-4CA8-A509-66E34606FBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36A7932-77A6-4CA8-A509-66E34606FBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36A7932-77A6-4CA8-A509-66E34606FBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36A7932-77A6-4CA8-A509-66E34606FBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C824AF4-9B67-416A-AA69-3F6CDD28407E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C824AF4-9B67-416A-AA69-3F6CDD28407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C824AF4-9B67-416A-AA69-3F6CDD28407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C824AF4-9B67-416A-AA69-3F6CDD28407E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C550AF5-323A-4CF4-865E-55D6B8D3E8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C550AF5-323A-4CF4-865E-55D6B8D3E8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C550AF5-323A-4CF4-865E-55D6B8D3E8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C550AF5-323A-4CF4-865E-55D6B8D3E8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
