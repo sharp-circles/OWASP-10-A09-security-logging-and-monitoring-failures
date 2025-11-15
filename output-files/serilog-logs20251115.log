@@ -6,3 +6,75 @@
 2025-11-15 11:12:28.045 +01:00 [INF] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\serilog\owasp.09.serilog
 2025-11-15 11:12:37.302 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Let's put this log in risk
 2025-11-15 11:12:37.324 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 5328.8132 ms
+2025-11-15 12:13:02.105 +01:00 [INF] [] Starting web application...
+2025-11-15 12:13:02.567 +01:00 [INF] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7067
+2025-11-15 12:13:02.573 +01:00 [INF] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5144
+2025-11-15 12:13:02.862 +01:00 [INF] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2025-11-15 12:13:02.865 +01:00 [INF] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+2025-11-15 12:13:02.868 +01:00 [INF] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\serilog\owasp.09.serilog
+2025-11-15 12:13:24.533 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:13:24.540 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:13:24.553 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 2059.0994 ms
+2025-11-15 13:03:19.979 +01:00 [INF] [] Starting web application...
+2025-11-15 13:03:20.750 +01:00 [INF] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7067
+2025-11-15 13:03:20.757 +01:00 [INF] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5144
+2025-11-15 13:03:21.036 +01:00 [INF] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2025-11-15 13:03:21.079 +01:00 [INF] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+2025-11-15 13:03:21.081 +01:00 [INF] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\serilog\owasp.09.serilog
+2025-11-15 13:03:30.029 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:03:30.036 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:03:30.048 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 1847.3693 ms
+2025-11-15 13:14:37.096 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy"
+2025-11-15 13:14:37.100 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:14:37.104 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 2851.5099 ms
+2025-11-15 13:15:56.926 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy);
+2025-11-15 13:15:56.929 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:15:56.931 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 6.1505 ms
+2025-11-15 13:16:08.940 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy");
+2025-11-15 13:16:08.942 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:16:08.944 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 4.0543 ms
+2025-11-15 13:16:20.333 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy");cmd.exe
+2025-11-15 13:16:20.338 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:16:20.341 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 8.3058 ms
+2025-11-15 13:24:31.037 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy)
+2025-11-15 13:24:31.041 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:24:31.044 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 7.8232 ms
+2025-11-15 13:24:44.566 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy d
+2025-11-15 13:24:44.570 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:24:44.572 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 6.0654 ms
+2025-11-15 13:41:27.185 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 400 in 27.1430 ms
+2025-11-15 13:41:49.366 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 400 in 1.8065 ms
+2025-11-15 13:41:54.532 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 400 in 1.9254 ms
+2025-11-15 13:42:08.369 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 400 in 2.0908 ms
+2025-11-15 13:42:12.944 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 400 in 2.1576 ms
+2025-11-15 13:42:19.629 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 400 in 2.3168 ms
+2025-11-15 13:42:26.750 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 400 in 2.0972 ms
+2025-11-15 13:42:32.685 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:42:32.689 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:42:32.693 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 8.5043 ms
+2025-11-15 13:42:41.080 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy;ls -lah
+2025-11-15 13:42:41.086 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:42:41.090 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 10.1543 ms
+2025-11-15 13:43:06.746 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy;Invoke-Expression("whoami")
+2025-11-15 13:43:06.748 +01:00 [INF] [owasp._09.serilog.core.UseCases.CreateRoutine.CreateRoutineHandler] Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:43:06.750 +01:00 [INF] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP POST /Routines/1 responded 200 in 3.7619 ms

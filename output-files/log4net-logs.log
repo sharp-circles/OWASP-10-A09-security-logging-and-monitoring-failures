@@ -6,3 +6,60 @@
 2025-11-15 11:59:02.687 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Hosting environment: Development
 2025-11-15 11:59:02.689 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\log4net\owasp.09.log4net
 2025-11-15 11:59:15.864 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Let's put this log in risk
+2025-11-15 12:17:19.826 +01:00 [INFO ] [Program] [1] - init main
+2025-11-15 12:17:20.604 +01:00 [INFO ] [Program] [1] - Starting web application...
+2025-11-15 12:17:21.050 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: https://localhost:7134
+2025-11-15 12:17:21.059 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: http://localhost:5224
+2025-11-15 12:17:21.170 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Application started. Press Ctrl+C to shut down.
+2025-11-15 12:17:21.172 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Hosting environment: Development
+2025-11-15 12:17:21.173 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\log4net\owasp.09.log4net
+2025-11-15 12:17:32.431 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:17:32.434 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:34:23.649 +01:00 [INFO ] [Program] [1] - init main
+2025-11-15 12:34:24.427 +01:00 [INFO ] [Program] [1] - Starting web application...
+2025-11-15 12:34:24.781 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: https://localhost:7134
+2025-11-15 12:34:24.784 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: http://localhost:5224
+2025-11-15 12:34:24.857 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Application started. Press Ctrl+C to shut down.
+2025-11-15 12:34:24.859 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Hosting environment: Development
+2025-11-15 12:34:24.860 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\log4net\owasp.09.log4net
+2025-11-15 12:34:29.791 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:34:29.795 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:40:23.421 +01:00 [INFO ] [Program] [1] - init main
+2025-11-15 12:40:24.283 +01:00 [INFO ] [Program] [1] - Starting web application...
+2025-11-15 12:40:24.561 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: https://localhost:7134
+2025-11-15 12:40:24.564 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: http://localhost:5224
+2025-11-15 12:40:24.665 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Application started. Press Ctrl+C to shut down.
+2025-11-15 12:40:24.667 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Hosting environment: Development
+2025-11-15 12:40:24.668 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\log4net\owasp.09.log4net
+2025-11-15 12:41:34.077 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:\sUser\slogged\sout\sbadguy
+2025-11-15 12:41:34.082 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:\sUser\slogged\sout\sbadguy
+2025-11-15 12:46:53.702 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:46:53.704 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:48:46.439 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:48:46.442 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy
+2025-11-15 12:58:36.626 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:Userloggedoutbadguy
+2025-11-15 12:58:36.628 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:Userloggedoutbadguy
+2025-11-15 12:58:48.655 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:Userloggedoutbadguy
+2025-11-15 12:58:48.656 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:Userloggedoutbadguy
+2025-11-15 12:59:12.074 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:	Userloggedoutbadguy
+2025-11-15 12:59:12.076 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:Userloggedoutbadguy
+2025-11-15 13:00:17.775 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO: Userlogged out badguy
+2025-11-15 13:00:17.777 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO:Userloggedoutbadguy
+2025-11-15 13:00:42.470 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO: Userlogged out bad guy
+2025-11-15 13:00:42.482 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:00:48.960 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO: User logged out bad guy
+2025-11-15 13:00:48.962 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Description: twenty-one
+INFO: User logged out bad guy

@@ -12,3 +12,35 @@
 2025-11-15 11:40:11.316 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api) in 2190.1041ms 
 2025-11-15 11:40:11.316 +01:00 | INFO  | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api)' 
 2025-11-15 11:40:11.316 +01:00 | INFO  | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7178/Routines/1 - 200 - application/json;+charset=utf-8 2302.5296ms 
+2025-11-15 12:15:34.881 +01:00 | INFO  | owasp.09.nlog.Program | Starting web application... 
+2025-11-15 12:15:35.356 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7178 
+2025-11-15 12:15:35.357 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5284 
+2025-11-15 12:15:35.439 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-11-15 12:15:35.439 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-11-15 12:15:35.439 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\nlog\owasp.09.nlog 
+2025-11-15 12:15:47.795 +01:00 | INFO  | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7178/Routines/1 - application/json 484 
+2025-11-15 12:15:47.850 +01:00 | INFO  | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api)' 
+2025-11-15 12:15:47.882 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "CreateRoutine", controller = "Routines"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateRoutine(Int32, owasp._09.nlog.api.Endpoints.CreateRoutine.CreateRoutineRequest) on controller owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController (owasp.09.nlog.api). 
+2025-11-15 12:15:51.996 +01:00 | INFO  | owasp._09.nlog.core.UseCases.CreateRoutine.CreateRoutineHandler | Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy 
+2025-11-15 12:15:51.996 +01:00 | INFO  | owasp._09.nlog.core.UseCases.CreateRoutine.CreateRoutineHandler | Description: twenty-one%0a%0aINFO:+User+logged+out%3dbadguy 
+2025-11-15 12:15:52.035 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.Int32'. 
+2025-11-15 12:15:52.051 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api) in 4159.2536ms 
+2025-11-15 12:15:52.051 +01:00 | INFO  | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api)' 
+2025-11-15 12:15:52.051 +01:00 | INFO  | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7178/Routines/1 - 200 - application/json;+charset=utf-8 4269.9302ms 
+2025-11-15 13:02:35.511 +01:00 | INFO  | owasp.09.nlog.Program | Starting web application... 
+2025-11-15 13:02:35.914 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7178 
+2025-11-15 13:02:35.920 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5284 
+2025-11-15 13:02:36.084 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-11-15 13:02:36.099 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-11-15 13:02:36.114 +01:00 | INFO  | Microsoft.Hosting.Lifetime | Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\nlog\owasp.09.nlog 
+2025-11-15 13:02:47.286 +01:00 | INFO  | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7178/Routines/1 - application/json 528 
+2025-11-15 13:02:47.342 +01:00 | INFO  | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api)' 
+2025-11-15 13:02:47.373 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "CreateRoutine", controller = "Routines"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateRoutine(Int32, owasp._09.nlog.api.Endpoints.CreateRoutine.CreateRoutineRequest) on controller owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController (owasp.09.nlog.api). 
+2025-11-15 13:02:47.428 +01:00 | INFO  | owasp._09.nlog.core.UseCases.CreateRoutine.CreateRoutineHandler | Description: twenty-one
+INFO: User logged out bad guy 
+2025-11-15 13:02:47.428 +01:00 | INFO  | owasp._09.nlog.core.UseCases.CreateRoutine.CreateRoutineHandler | Description: twenty-one
+INFO: User logged out bad guy 
+2025-11-15 13:02:47.438 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.Int32'. 
+2025-11-15 13:02:47.452 +01:00 | INFO  | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api) in 70.0804ms 
+2025-11-15 13:02:47.452 +01:00 | INFO  | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'owasp._09.nlog.api.Endpoints.CreateRoutine.RoutinesController.CreateRoutine (owasp.09.nlog.api)' 
+2025-11-15 13:02:47.452 +01:00 | INFO  | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7178/Routines/1 - 200 - application/json;+charset=utf-8 180.4871ms 

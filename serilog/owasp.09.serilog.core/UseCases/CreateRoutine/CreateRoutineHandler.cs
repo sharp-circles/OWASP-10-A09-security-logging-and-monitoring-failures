@@ -19,9 +19,9 @@ public sealed class CreateRoutineHandler : ICreateRoutineHandler
 
     public async Task Handle(CreateRoutineInput request)
     {
-        // Hypothetical creation of routine here
-
-        // Log statements
-        _logger.LogInformation("Let's put this log in risk");
+        foreach (var exercise in request.Exercises)
+        {
+            _logger.LogInformation("Description: {Description}", exercise.Description);
+        }
     }
 }
