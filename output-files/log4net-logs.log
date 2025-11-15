@@ -1,0 +1,8 @@
+2025-11-15 11:59:01.179 +01:00 [INFO ] [Program] [1] - init main
+2025-11-15 11:59:02.103 +01:00 [INFO ] [Program] [1] - Starting web application...
+2025-11-15 11:59:02.555 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: https://localhost:7134
+2025-11-15 11:59:02.560 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Now listening on: http://localhost:5224
+2025-11-15 11:59:02.685 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Application started. Press Ctrl+C to shut down.
+2025-11-15 11:59:02.687 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Hosting environment: Development
+2025-11-15 11:59:02.689 +01:00 [INFO ] [Microsoft.Hosting.Lifetime] [1] - Content root path: C:\Users\IMS\Desktop\main\3. PROJECTS\sharp-circles\4. LABS\OWASP-10-A09-security-logging-and-monitoring-failures\log4net\owasp.09.log4net
+2025-11-15 11:59:15.864 +01:00 [INFO ] [owasp._09.log4net.core.UseCases.CreateRoutine.CreateRoutineHandler] [.NET TP Worker] - Let's put this log in risk
